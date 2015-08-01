@@ -1,0 +1,3 @@
+why is this file here?
+well its because you cant initialize folders on github if they are empty
+* understood right? *
