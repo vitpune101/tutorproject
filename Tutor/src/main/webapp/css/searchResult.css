@@ -1,0 +1,36 @@
+	 
+	 #center_maker{
+	  width:1500px;
+	  margin:10px auto;
+	  }
+
+
+
+	 
+	 
+	 #top_nav li{
+	 display:inline;
+	 list-style-type:none;
+	 border:2px solid red;
+	 margin:20px 0px;
+	 padding:10px;
+	 }
+	 
+	 /*styling the section nw*/
+	 
+	 #the_section{
+	 margin:20px 10px 10px 0px; /*top right bottom left*/
+	 border:2px solid red;
+	 width:606px;
+	 padding:10px;
+	 float:left;
+	 margin-left:50;
+	 }
+	 
+	 #side_booked
+	 { margin-top:20px;
+	  width:296px;
+	  border:2px solid red;
+	  padding:10px;
+	  float:left;
+	 }
