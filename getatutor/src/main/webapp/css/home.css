@@ -1,0 +1,65 @@
+div#head{
+	background-color:black;
+	color:white;
+	height:50px;
+	padding:0px 20px;
+	font-size:30px;
+}
+
+span#head1{
+	text-align:left;
+	width:50%;
+	float:left;
+}
+
+span#head2{
+	text-align:right;
+	width:50%;
+	float:left;
+}
+
+ul#login{
+	margin-top:0px;
+}
+
+ul#login li{
+	display:inline;
+	padding:0px 20px;
+}
+
+a#head{
+	text-decoration:none;
+	color:white;
+}
+
+div#nav{
+	font-size:25px;
+	color:white;
+	background-color:red;
+	text-align:center;
+	height:50px;
+}
+
+ul#nav{
+	margin-top:0px;
+}
+
+ul#nav li{
+	display:inline;
+	padding: 5px 70px;
+}
+
+ul#nav li a:hover {
+	color:black;
+}
+
+ul#nav li a{
+	text-decoration:none;
+	color:white;
+}
+
+iframe#page{
+	width:90%;
+	height:70%;
+	border:none;
+}

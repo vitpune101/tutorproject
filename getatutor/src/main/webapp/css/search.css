@@ -1,0 +1,54 @@
+div#ads{
+	float:left;
+	width:25%;
+	height:100%;
+}
+
+span#ads{
+	border-style:solid;
+	border-color:red;
+	width:100%;
+	height:40%;
+	float:left;
+	margin-top:10px;
+}
+
+img#ads{
+	width:120px;
+	float:left;
+}
+
+div#search{
+	width:45%;
+	float:left;
+	height:100%;
+}
+
+h1#search{
+	color:red;
+	margin-top:70px;
+	font-size:40px;
+}
+
+input#search{
+	margin-top:30px;
+	width:50%;
+	height:5%;
+}
+
+button#search{
+	margin-top:30px;
+	width:20%;
+	height:5%;
+}
+
+img#img{
+	margin-top:50px;
+	height:40%;
+}
+
+div#img{
+	float:left;
+	width:30%;
+	height:100%;
+}
