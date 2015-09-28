@@ -39,7 +39,7 @@ public class MyResource {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     @Path("/{para}")
-    public JSONArray getLogin(@PathParam("para") int id) {
+    public String getLogin(@PathParam("para") int id) {
     System.out.println("hey");	
     	String output="";
     	JSONArray list=null;
@@ -87,6 +87,6 @@ System.out.println("INside try");
     	        System.out.println(ex);
     	    }
     	
-        return list;
+        return list.toString();
     }
 }
